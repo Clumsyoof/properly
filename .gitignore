@@ -1,0 +1,30 @@
+# Virtual environment folders in current directory
+bin/
+lib/
+lib64/
+include/
+etc/
+share/
+pyvenv.cfg
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Audio files & temporary recordings
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.tmp
+
+# Personal journal / memory files
+episodic_memories.json
+*.json
+
+# OS / Editor clutter
+.DS_Store
+.vscode/
+.idea/
